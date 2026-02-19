@@ -1,4 +1,4 @@
-# BewertungsKonzept-EnglishUnterricht-Kl-7---10
+# BewertungsKonzept-EnglishUnterricht-Kl-7--10 (Grund und Oberschule Maxim Gorki)
 
 ## 1. Grundlagen des Bewertungskonzepts
 
