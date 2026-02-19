@@ -23,7 +23,7 @@ Die Bewertung orientiert sich an den im Rahmenlehrplan definierten **Kompetenzbe
 
 | Klassenstufe | Anzahl Klassenarbeiten pro Schuljahr | Dauer | Verteilung schriftlich / sonstig |
 |--------------|--------------------------------------|-------|----------------------------------|
-| 7 | 4 – 5 | 45–60 Min. | ca. 40% schriftlich, 60% sonstige Leistungen |
+| 7 | 4  | 45 Min. | ca. 25% schriftlich, 75% sonstige Leistungen (nach meiner Kollegin Hinweis) |
 | 8 | 4 – 5 | 45–60 Min. | ca. 40% schriftlich, 60% sonstige Leistungen |
 | 9 | 4 – 5 | 60–90 Min. | ca. 45% schriftlich, 55% sonstige Leistungen |
 | 10 | 3 – 4 | 60–90 Min. | ca. 50% schriftlich, 50% sonstige Leistungen |
